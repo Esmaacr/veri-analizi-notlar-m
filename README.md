@@ -1,2 +1,3 @@
-# veri-analizi-notlar-m
+# veri-analizi-notlarm
+
 Derste aldığım notlar ve çalışmalarım
